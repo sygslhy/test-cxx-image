@@ -1,0 +1,2 @@
+build/rgb_8bit.jpg filter=lfs diff=lfs merge=lfs -text
+rgb_8bit.jpg filter=lfs diff=lfs merge=lfs -text
