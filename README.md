@@ -25,3 +25,5 @@ cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j4
 
 ./test-write-exif
+
+We got the good trace at the end "exif written successfully."
